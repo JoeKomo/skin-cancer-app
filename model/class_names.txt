@@ -1,0 +1,15 @@
+# List of class names
+class_names = [
+    "melanocytic nevi",
+    "melanoma",
+    "benign keratosis",
+    "basal cell carcinoma",
+    "actinic Keratoses",
+    "vascular skin lesions",
+    "dermatofibroma"
+]
+
+# Save the list to a file
+with open('class_names.txt', 'w') as f:
+    for class_name in class_names:
+        f.write(class_name + '\n')

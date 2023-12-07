@@ -1,0 +1,7 @@
+0 melanocytic nevi
+1 melanoma
+2 benign keratosis
+3 basal cell carcinoma
+4 actinic Keratoses
+5 vascular skin lesions
+6 dermatofibroma
