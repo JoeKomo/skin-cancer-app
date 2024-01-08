@@ -1,2 +1,2 @@
 # skin-cancer-app
-Skin Cancer Prediction Web App
+This is the notebook for the model
